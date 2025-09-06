@@ -14,9 +14,7 @@
 
 ## 📋 **Overview**
 
-A **production-ready** Spring Boot application that provides powerful course search functionality with Elasticsearch integration. Features advanced search capabilities including full-text search, multi-criteria filtering, intelligent autocomplete, and fuzzy search for enhanced user experience.
-
-> 📊 **For detailed assignment completion status and implementation details, please check [ASSIGNMENT_REPORT.md](./ASSIGNMENT_REPORT.md)**
+A **production-ready** Spring Boot application that provides powerful course search functionality with Elasticsearch integration. Features advanced search capabilities including full-text search, multi-criteria filtering, intelligent autocomplete, and fuzzy search for enhanced user experienc
 
 ---
 
@@ -623,25 +621,6 @@ logging:
 **📚 Educational Project**
 
 This project is created for educational purposes as part of a technical assignment.
-
-</div>
-
----
-
-## 📋 **Assignment Information**
-
-<div align="center">
-
-**📊 For comprehensive assignment completion report, implementation details, and evaluation metrics:**
-
-### **👉 [View ASSIGNMENT_REPORT.md](./ASSIGNMENT_REPORT.md)**
-
-*This report contains detailed information about:*
-- ✅ **Assignment A & B completion status**
-- 🏗️ **Technical implementation details**
-- 🧪 **Testing scenarios and examples**
-- 📊 **Quality assurance metrics**
-- 🎯 **Success criteria fulfillment**
 
 </div>
 
